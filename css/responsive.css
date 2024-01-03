@@ -1,0 +1,47 @@
+@media screen and (max-width : 992px) {
+    .button-fitur{
+        width: 100%;
+    }
+
+    .card-contact {
+        width: 100%;
+        height: auto;
+        background: #ffffff;
+        border-radius: 5px;
+        padding: 52px 48px;
+        margin-top: 42px;
+    }
+    
+    .card-contact h2{
+        font-size: 23px;
+        line-height: 42px;
+        margin-bottom: 21px;
+    }
+}
+
+@media screen and (max-width : 576px) {
+    .hero-tagline h1{
+        line-height: 52px;
+    }
+
+    .img-hero{
+        width: 75%;
+        height: auto;
+    }
+
+    h2{
+        font-size: 34px;
+    }
+
+    .sub-title{
+        font-size: 16px;
+    }
+
+    .card-layanan{
+        margin: 15px 0;
+    }
+}
+
+@media screen and (max-width : 350px){
+    
+}
